@@ -59,7 +59,7 @@ jobs:
       #
       - add_ssh_keys:
           fingerprints:
-            - 37:46:82:bd:8f:3a:26:b5:5d:d8:40:f5:ab:ea:59:9a
+            - 59:03:ad:c3:ca:cf:16:08:7d:d1:52:0f:1a:ab:76:37
 
       #
       # deploy:
