@@ -73,7 +73,6 @@ jobs:
       - deploy:
           command: |
             if [ "${CIRCLE_BRANCH}" == "master" ]; then
-              gem install capistrano
               cap production deploy
             fi
 
